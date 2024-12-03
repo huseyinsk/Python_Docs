@@ -1,5 +1,5 @@
 # Python_Docs
-Projects for Improving
+Projects while i was improving myself in python
 -----------------------------------------
 Python gelişimi sürecinde yapmış olduğum
 Bazı Python makineleri/projeleri
